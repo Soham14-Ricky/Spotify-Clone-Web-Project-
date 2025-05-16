@@ -1,2 +1,2 @@
-# Spotify-Clone-Web-Project-
+# Spotify-Clone-Web-Project
 Making a Spotify clone using HTML, CSS, JavaScript.
